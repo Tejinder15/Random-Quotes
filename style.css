@@ -6,9 +6,6 @@
   box-sizing: border-box;
 }
 
-/* background:#F8F9FA;
-#fdfcdc */
-
 body {
   background-color: #8187dc;
   height: 80vh;
@@ -20,8 +17,8 @@ body {
 }
 
 #display {
-  min-width: 500px;
   max-width: 800px;
+  width: 90%;
   padding: 1rem 2rem;
 }
 
